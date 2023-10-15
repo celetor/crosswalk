@@ -83,6 +83,7 @@
     </ul>
 {% elsif site.style == 'nlist' %}
     </ol>
+                
 {% elsif site.style == 'dir' %}
     </dl>
 {% endif %}
